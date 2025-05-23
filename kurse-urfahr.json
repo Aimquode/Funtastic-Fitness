@@ -783,47 +783,9 @@
     "adresse": "Hauptstraße 83/85, 4040 Linz",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
   },
-  "location_name": "Urfahr",
-  "location_id": "6c4cf87f-9677-4bc9-a6ce-0922d569c9f6",
-  "address": "Hauptstraße 83/85, 4040 Linz",
-  "updated_at": "2025-05-23T11:10:57.397Z",
   "_metadata": {
-    "last_updated": "2025-05-23T11:10:57.397Z",
-    "updated_by": "system",
-    "location_id": "6c4cf87f-9677-4bc9-a6ce-0922d569c9f6"
-  },
-  "settings": {
-    "capacity": 0,
-    "default_duration": 60,
-    "working_hours": {
-      "monday": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "tuesday": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "wednesday": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "thursday": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "friday": {
-        "start": "09:00",
-        "end": "17:00"
-      },
-      "saturday": {
-        "start": "",
-        "end": ""
-      },
-      "sunday": {
-        "start": "",
-        "end": ""
-      }
-    }
+    "last_updated": "2025-05-23T11:12:54.180Z",
+    "location_id": "6c4cf87f-9677-4bc9-a6ce-0922d569c9f6",
+    "location_name": "Urfahr"
   }
 }
