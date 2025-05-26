@@ -788,7 +788,7 @@
       "titel": "30 Minuten Meeting",
       "datum": "2025-05-24",
       "zeit": "09:00",
-      "adresse": "Calendly-Veranstaltung: 30 Minute Meeting",
+      "adresse": "Hauptstraße 83/85, 4040 Linz",
       "calendly": "https://calendly.com/funtasticfitnessurfahr/30min",
       "dauer": 480
     },
@@ -796,7 +796,7 @@
       "titel": "HIIT",
       "datum": "2025-05-28",
       "zeit": "09:00",
-      "adresse": "Calendly-Veranstaltung: HIIT",
+      "adresse": "Hauptstraße 83/85, 4040 Linz",
       "calendly": "https://calendly.com/funtasticfitnessurfahr/hiit",
       "dauer": 480
     },
@@ -804,7 +804,7 @@
       "titel": "Miniband",
       "datum": "2025-05-29",
       "zeit": "09:00",
-      "adresse": "Calendly-Veranstaltung: Miniband",
+      "adresse": "Hauptstraße 83/85, 4040 Linz",
       "calendly": "https://calendly.com/funtasticfitnessurfahr/miniband",
       "dauer": 480
     },
@@ -812,7 +812,7 @@
       "titel": "Powerzirkel",
       "datum": "2025-05-30",
       "zeit": "09:00",
-      "adresse": "Calendly-Veranstaltung: Powerzirkel",
+      "adresse": "Hauptstraße 83/85, 4040 Linz",
       "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr",
       "dauer": 480
     },
@@ -820,7 +820,7 @@
       "titel": "Mobilisierung/Stabilisierung",
       "datum": "2025-06-01",
       "zeit": "09:00",
-      "adresse": "Calendly-Veranstaltung: Mobilisierung/Stabilisierung",
+      "adresse": "Hauptstraße 83/85, 4040 Linz",
       "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung",
       "dauer": 480
     },
@@ -828,7 +828,7 @@
       "titel": "Cardio",
       "datum": "2025-06-05",
       "zeit": "09:00",
-      "adresse": "Calendly-Veranstaltung: Cardio",
+      "adresse": "Hauptstraße 83/85, 4040 Linz",
       "calendly": "https://calendly.com/funtasticfitnessurfahr/cardio",
       "dauer": 480
     },
@@ -921,9 +921,9 @@
       "dauer": 30
     }
   ],
-  "updated_at": "2025-05-26T13:02:23.740Z",
+  "updated_at": "2025-05-26T13:09:22.504Z",
   "_metadata": {
-    "last_updated": "2025-05-26T13:02:23.740Z",
+    "last_updated": "2025-05-26T13:09:22.504Z",
     "updated_by": "system",
     "location_id": "6c4cf87f-9677-4bc9-a6ce-0922d569c9f6"
   }
