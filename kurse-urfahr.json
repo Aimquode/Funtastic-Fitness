@@ -1,61 +1,5 @@
 {
   "0": {
-    "titel": "Cardio",
-    "datum": "2025-06-01",
-    "zeit": "09:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/cardio",
-    "dauer": 480
-  },
-  "1": {
-    "titel": "Powerzirkel",
-    "datum": "2025-06-04",
-    "zeit": "09:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr",
-    "dauer": 480
-  },
-  "2": {
-    "titel": "Miniband",
-    "datum": "2025-06-07",
-    "zeit": "09:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/miniband",
-    "dauer": 480
-  },
-  "3": {
-    "titel": "Oberkörper",
-    "datum": "2025-06-10",
-    "zeit": "08:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/oberkoerper",
-    "dauer": 30
-  },
-  "4": {
-    "titel": "Ganzkörper",
-    "datum": "2025-06-16",
-    "zeit": "19:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/ganzkorpertraining-urfahr",
-    "dauer": 30
-  },
-  "5": {
-    "titel": "Six Pack",
-    "datum": "2025-06-17",
-    "zeit": "08:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack",
-    "dauer": 30
-  },
-  "6": {
-    "titel": "Rückenfit",
-    "datum": "2025-06-18",
-    "zeit": "18:00",
-    "adresse": "Hauptstraße 83/85, 4040 Linz",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/ball-und-matte",
-    "dauer": 30
-  },
-  "7": {
     "titel": "Bauch Beine Po",
     "datum": "2025-06-23",
     "zeit": "19:00",
@@ -63,7 +7,7 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/bauch-beine-po-urfahr",
     "dauer": 30
   },
-  "8": {
+  "1": {
     "titel": "Rücken Fit",
     "datum": "2025-06-25",
     "zeit": "18:00",
@@ -71,7 +15,7 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/rueckenfit",
     "dauer": 30
   },
-  "9": {
+  "2": {
     "titel": "Yoga",
     "datum": "2025-06-26",
     "zeit": "09:00",
@@ -79,7 +23,7 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga",
     "dauer": 30
   },
-  "10": {
+  "3": {
     "titel": "Pilates",
     "datum": "2025-06-27",
     "zeit": "08:00",
@@ -87,7 +31,7 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates",
     "dauer": 30
   },
-  "11": {
+  "4": {
     "titel": "Golden Girls",
     "datum": "2025-06-30",
     "zeit": "10:00",
@@ -95,7 +39,7 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr",
     "dauer": 30
   },
-  "12": {
+  "5": {
     "titel": "Stepper",
     "datum": "2025-06-30",
     "zeit": "19:00",
@@ -103,7 +47,7 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper",
     "dauer": 30
   },
-  "13": {
+  "6": {
     "titel": "Happy 30",
     "datum": "2025-06-30",
     "zeit": "18:00",
