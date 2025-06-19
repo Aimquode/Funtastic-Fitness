@@ -1,581 +1,576 @@
-{
-  "0": {
-    "titel": "Happy 300",
+[
+  {
+    "titel": "Happy 30",
     "datum": "2025-05-21",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "1": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-21",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "2": {
+  {
     "titel": "Step Aerobic",
     "datum": "2025-05-21",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
   },
-  "3": {
+  {
     "titel": "BBP",
     "datum": "2025-05-22",
     "zeit": "08:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
-  "4": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-22",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "5": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-22",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "6": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-05-22",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "7": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-05-23",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "8": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-23",
     "zeit": "10:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "9": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-23",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "10": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-26",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "11": {
+  {
     "titel": "Pilates",
     "datum": "2025-05-26",
     "zeit": "10:15",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
-  "12": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-26",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "13": {
+  {
     "titel": "Achtsamkeits Training",
     "datum": "2025-05-26",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/achtsamkeitstraining"
   },
-  "14": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-27",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "15": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-27",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "16": {
+  {
     "titel": "Mini Bands",
     "datum": "2025-05-27",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/mini-band-workout"
   },
-  "17": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-28",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "18": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-28",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "19": {
+  {
     "titel": "Step Aerobic",
     "datum": "2025-05-28",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
   },
-  "20": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-05-30",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "21": {
+  {
     "titel": "Happy 30",
     "datum": "2025-05-30",
     "zeit": "10:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "22": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-02",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "23": {
+  {
     "titel": "Pilates",
     "datum": "2025-06-02",
     "zeit": "10:15",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
-  "24": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-02",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "25": {
+  {
     "titel": "Pilates",
     "datum": "2025-06-02",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
-  "26": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-03",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "27": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-03",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "28": {
+  {
     "titel": "Bodybar-Workout",
     "datum": "2025-06-03",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bodybar-workout"
   },
-  "29": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-04",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "30": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-04",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "31": {
+  {
     "titel": "Step Aerobic",
     "datum": "2025-06-04",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
   },
-  "32": {
+  {
     "titel": "BBP",
     "datum": "2025-06-05",
     "zeit": "08:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
-  "33": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-05",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "34": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-05",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "35": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-06-05",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "36": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-06-06",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "37": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-06",
     "zeit": "10:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "38": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-10",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "39": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-10",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "40": {
+  {
     "titel": "Bodybar-Workout",
     "datum": "2025-06-10",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bodybar-workout"
   },
-  "41": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-11",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "42": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-11",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "43": {
+  {
     "titel": "Step Aerobic",
     "datum": "2025-06-11",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
   },
-  "44": {
+  {
     "titel": "BBP",
     "datum": "2025-06-12",
     "zeit": "08:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
-  "45": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-12",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "46": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-12",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "47": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-06-13",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "48": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-13",
     "zeit": "10:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "49": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-13",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "50": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-16",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "51": {
+  {
     "titel": "Pilates",
     "datum": "2025-06-16",
     "zeit": "10:15",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
-  "52": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-16",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "53": {
+  {
     "titel": "Achtsamkeitstraining",
     "datum": "2025-06-16",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/achtsamkeitstraining"
   },
-  "54": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-17",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "55": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-17",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "56": {
+  {
     "titel": "Bodybar-Workout",
     "datum": "2025-06-17",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bodybar-workout"
   },
-  "57": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-18",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "58": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-18",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "59": {
+  {
     "titel": "BBP",
     "datum": "2025-06-18",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
-  "60": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-06-20",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "61": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-20",
     "zeit": "10:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "62": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-23",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "63": {
+  {
     "titel": "Pilates",
     "datum": "2025-06-23",
     "zeit": "10:15",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
-  "64": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-23",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "65": {
+  {
     "titel": "Achtsamkeitstraining",
     "datum": "2025-06-23",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/achtsamkeitstraining"
   },
-  "66": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-24",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "67": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-24",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "68": {
+  {
     "titel": "Bodybar-Workout",
     "datum": "2025-06-24",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bodybar-workout"
   },
-  "69": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-25",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "70": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-25",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "71": {
+  {
     "titel": "BBP",
     "datum": "2025-06-25",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
-  "72": {
+  {
     "titel": "BBP",
     "datum": "2025-06-26",
     "zeit": "08:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
-  "73": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-26",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "74": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-26",
     "zeit": "16:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "75": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-06-26",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "76": {
+  {
     "titel": "Powerzirkel",
     "datum": "2025-06-27",
     "zeit": "09:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
   },
-  "77": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-27",
     "zeit": "10:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "78": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-30",
     "zeit": "09:30",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "79": {
+  {
     "titel": "Pilates",
     "datum": "2025-06-30",
     "zeit": "10:15",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
-  "80": {
+  {
     "titel": "Happy 30",
     "datum": "2025-06-30",
     "zeit": "17:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
-  "81": {
+  {
     "titel": "Achtsamkeitstraining",
     "datum": "2025-06-30",
     "zeit": "18:00",
     "adresse": "Linzerstraﬂe 19, 4240 Freistadt",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/achtsamkeitstraining"
-  },
-  "_metadata": {
-    "last_updated": "2025-05-23T10:39:04.611Z",
-    "location_id": "675ef4c8-e9ec-4b15-af85-55724af7b6c1",
-    "location_name": "Leonding"
   }
-}
+]
