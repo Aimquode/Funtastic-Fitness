@@ -1,156 +1,199 @@
-[
-  {
+{
+  "0": {
     "titel": "Happy 30",
     "datum": "2025-06-20",
     "zeit": "08:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "1": {
     "titel": "Happy 30",
     "datum": "2025-06-20",
     "zeit": "10:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "2": {
     "titel": "Happy 30",
     "datum": "2025-06-20",
     "zeit": "17:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "3": {
     "titel": "R¸cken Fit",
     "datum": "2025-06-23",
     "zeit": "08:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/mobility-workout"
   },
-  {
+  "4": {
     "titel": "Happy 30",
     "datum": "2025-06-23",
     "zeit": "09:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "5": {
     "titel": "Happy 30",
     "datum": "2025-06-23",
     "zeit": "16:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "6": {
     "titel": "HIIT",
     "datum": "2025-06-23",
     "zeit": "18:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/hiit-training"
   },
-  {
+  "7": {
     "titel": "Happy 30",
     "datum": "2025-06-24",
     "zeit": "09:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "8": {
     "titel": "Happy 30",
     "datum": "2025-06-24",
     "zeit": "17:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "9": {
     "titel": "Yoga Flow",
     "datum": "2025-06-25",
     "zeit": "09:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga-flow"
   },
-  {
+  "10": {
     "titel": "Happy 30",
     "datum": "2025-06-25",
     "zeit": "16:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "11": {
     "titel": "Happy 30",
     "datum": "2025-06-25",
     "zeit": "17:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "12": {
     "titel": "Happy 30",
     "datum": "2025-06-26",
     "zeit": "10:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "13": {
     "titel": "Powerzirkel",
     "datum": "2025-06-26",
     "zeit": "16:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
   },
-  {
+  "14": {
     "titel": "Pilates",
     "datum": "2025-06-26",
     "zeit": "18:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/pilates-gallneukirchen"
   },
-  {
+  "15": {
     "titel": "Powerzirkel",
     "datum": "2025-06-27",
     "zeit": "08:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
   },
-  {
+  "16": {
     "titel": "Happy 30",
     "datum": "2025-06-27",
     "zeit": "10:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "17": {
     "titel": "Happy 30",
     "datum": "2025-06-27",
     "zeit": "17:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "18": {
     "titel": "R¸cken Fit",
     "datum": "2025-06-30",
     "zeit": "08:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/mobility-workout"
   },
-  {
+  "19": {
     "titel": "Happy 30",
     "datum": "2025-06-30",
     "zeit": "09:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
-  {
+  "20": {
     "titel": "Yoga Flow",
     "datum": "2025-06-30",
     "zeit": "16:30",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga-flow"
   },
-  {
+  "21": {
     "titel": "HIIT",
     "datum": "2025-06-30",
     "zeit": "18:00",
     "adresse": "Hauptstraﬂe 2, 4210 Gallneukirchen",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/hiit-training"
+  },
+  "location_name": "Gallneukirchen",
+  "location_id": "efd996dc-c24b-4943-90aa-7d3fb1d391df",
+  "address": "Hauptstraﬂe 2, 4210 Gallneukirchen",
+  "updated_at": "2025-06-19T14:41:52.615Z",
+  "_metadata": {
+    "last_updated": "2025-06-19T14:41:52.615Z",
+    "updated_by": "system",
+    "location_id": "efd996dc-c24b-4943-90aa-7d3fb1d391df"
+  },
+  "settings": {
+    "capacity": 0,
+    "default_duration": 60,
+    "working_hours": {
+      "monday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "tuesday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "wednesday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "thursday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "friday": {
+        "start": "09:00",
+        "end": "17:00"
+      },
+      "saturday": {
+        "start": "",
+        "end": ""
+      },
+      "sunday": {
+        "start": "",
+        "end": ""
+      }
+    }
   }
-]
+}
