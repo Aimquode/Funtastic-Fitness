@@ -1,35 +1,5 @@
 [
   {
-    "titel": "Yoga",
-    "datum": "2025-07-24",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-07-24",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-07-24",
-    "zeit": "15:30",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-07-24",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2025-07-24",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
-  },
-  {
     "titel": "Happy 30",
     "datum": "2025-07-25",
     "zeit": "10:00",
@@ -322,6 +292,12 @@
     "datum": "2025-08-11",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
+    "titel": "Bauch Beine Po",
+    "datum": "2025-08-11",
+    "zeit": "19:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/bauch-beine-po-urfahr"
   },
   {
     "titel": "Cardio",
