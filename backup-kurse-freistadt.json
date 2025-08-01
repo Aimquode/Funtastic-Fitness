@@ -1,47 +1,5 @@
 [
   {
-    "titel": "Happy 30",
-    "datum": "2025-07-30",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-07-30",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Tanzworkout",
-    "datum": "2025-07-30",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/tanzworkout"
-  },
-  {
-    "titel": "Oberkörpertraining",
-    "datum": "2025-07-31",
-    "zeit": "08:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/oberkorpertraining"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-07-31",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-07-31",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2025-07-31",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
-  },
-  {
     "titel": "Powerzirkel",
     "datum": "2025-08-01",
     "zeit": "08:45",
@@ -112,6 +70,12 @@
     "datum": "2025-08-06",
     "zeit": "16:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Step Aerobic",
+    "datum": "2025-08-06",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
   },
   {
     "titel": "Oberkörpertraining",
@@ -346,6 +310,12 @@
     "datum": "2025-08-27",
     "zeit": "16:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Tanzworkout",
+    "datum": "2025-08-27",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/tanzworkout"
   },
   {
     "titel": "Oberkörpertraining",
