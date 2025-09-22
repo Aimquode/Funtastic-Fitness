@@ -1,108 +1,6 @@
 [
   {
     "titel": "Happy 30",
-    "datum": "2025-09-15",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2025-09-15",
-    "zeit": "10:15",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-15",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Achtsamkeits-training",
-    "datum": "2025-09-15",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/achtsamkeitstraining"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-16",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-16",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "HIIT the Beat",
-    "datum": "2025-09-16",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/hit-the-beat"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-17",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-17",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Step Aerobic",
-    "datum": "2025-09-17",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
-  },
-  {
-    "titel": "Happy 30 YOGA",
-    "datum": "2025-09-18",
-    "zeit": "08:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-18",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-18",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2025-09-18",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2025-09-19",
-    "zeit": "08:45",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-19",
-    "zeit": "10:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-09-19",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
     "datum": "2025-09-22",
     "zeit": "09:30",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
@@ -244,5 +142,251 @@
     "datum": "2025-09-30",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/hit-the-beat"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-01",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-02",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-02",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-03",
+    "zeit": "10:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-06",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-06",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-07",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-07",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-08",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-09",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-09",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-10",
+    "zeit": "10:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-10",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-13",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-13",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-14",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-14",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-15",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-16",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-16",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-17",
+    "zeit": "10:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-17",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-20",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-20",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-21",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-21",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-22",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-23",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-23",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-24",
+    "zeit": "10:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-24",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-27",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-27",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-28",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-28",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-29",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-29",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-30",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-30",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-31",
+    "zeit": "10:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2025-10-31",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   }
 ]
