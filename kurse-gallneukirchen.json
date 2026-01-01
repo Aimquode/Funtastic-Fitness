@@ -1,416 +1,284 @@
 [
   {
     "titel": "Happy 30",
-    "datum": "2025-11-25",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-11-25",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2025-11-25",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
-  },
-  {
-    "titel": "Yoga Flow",
-    "datum": "2025-11-26",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga-flow"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2025-11-26",
-    "zeit": "16:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-11-26",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-11-27",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2025-11-27",
-    "zeit": "16:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-11-27",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2025-11-28",
+    "datum": "2026-01-02",
     "zeit": "08:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
-  },
-  {
-    "titel": "Yoga",
-    "datum": "2025-11-28",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga"
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-11-28",
+    "datum": "2026-01-02",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-02",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
-    "titel": "Golden Girls Zirkel",
-    "datum": "2025-12-01",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/golden-girls-zirkel-gallneukrichen"
+    "titel": "Rücken Fit",
+    "datum": "2026-01-05",
+    "zeit": "08:30",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/mobility-workout"
   },
   {
-    "titel": "Yoga Flow",
-    "datum": "2025-12-01",
+    "titel": "Happy 30",
+    "datum": "2026-01-05",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-05",
     "zeit": "16:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga-flow"
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "HIIT Training",
-    "datum": "2025-12-01",
+    "datum": "2026-01-05",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/hiit-training"
   },
   {
-    "titel": "Happy 30",
-    "datum": "2025-12-02",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2025-12-02",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2025-12-02",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-03",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-03",
-    "zeit": "16:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2025-12-03",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/pilates-gallneukirchen"
-  },
-  {
-    "titel": "Step Aerobic",
-    "datum": "2025-12-04",
-    "zeit": "08:15",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/step-aerobic"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-04",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Tanzworkout",
-    "datum": "2025-12-04",
-    "zeit": "16:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/tanzworkout"
-  },
-  {
-    "titel": "Yoga",
-    "datum": "2025-12-04",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-05",
-    "zeit": "08:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-05",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-05",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-09",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-09",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2025-12-09",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
-  },
-  {
     "titel": "Yoga Flow",
-    "datum": "2025-12-10",
+    "datum": "2026-01-07",
     "zeit": "09:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga-flow"
   },
   {
     "titel": "Outdoor Training",
-    "datum": "2025-12-10",
+    "datum": "2026-01-07",
     "zeit": "16:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/outdoor-training"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-10",
+    "datum": "2026-01-07",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Golden Girls Zirkel",
-    "datum": "2025-12-11",
+    "datum": "2026-01-08",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/golden-girls-zirkel-gallneukrichen"
   },
   {
-    "titel": "Powerzirkel",
-    "datum": "2025-12-11",
-    "zeit": "16:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2025-12-11",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/pilates-gallneukirchen"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2025-12-12",
-    "zeit": "08:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
-  },
-  {
     "titel": "Happy 30",
-    "datum": "2025-12-12",
+    "datum": "2026-01-09",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
-    "titel": "Happy 30",
-    "datum": "2025-12-12",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
     "titel": "Golden Girls Zirkel",
-    "datum": "2025-12-15",
+    "datum": "2026-01-12",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/golden-girls-zirkel-gallneukrichen"
   },
   {
     "titel": "Yoga Flow",
-    "datum": "2025-12-15",
+    "datum": "2026-01-12",
     "zeit": "16:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga-flow"
   },
   {
     "titel": "HIIT Training",
-    "datum": "2025-12-15",
+    "datum": "2026-01-12",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/hiit-training"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-16",
+    "datum": "2026-01-13",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
-    "titel": "Powerzirkel",
-    "datum": "2025-12-16",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2025-12-16",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
-  },
-  {
     "titel": "Happy 30",
-    "datum": "2025-12-17",
+    "datum": "2026-01-14",
     "zeit": "09:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-17",
+    "datum": "2026-01-14",
     "zeit": "16:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
-    "titel": "Pilates",
-    "datum": "2025-12-17",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/pilates-gallneukirchen"
-  },
-  {
-    "titel": "Step Aerobic",
-    "datum": "2025-12-18",
-    "zeit": "08:15",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/step-aerobic"
-  },
-  {
     "titel": "Happy 30",
-    "datum": "2025-12-18",
+    "datum": "2026-01-15",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Rücken Fit",
-    "datum": "2025-12-18",
+    "datum": "2026-01-15",
     "zeit": "16:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/mobility-workout"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-18",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2025-12-19",
+    "datum": "2026-01-16",
     "zeit": "08:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-19",
+    "datum": "2026-01-16",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-19",
+    "datum": "2026-01-16",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Rücken Fit",
-    "datum": "2025-12-22",
+    "datum": "2026-01-19",
     "zeit": "08:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/mobility-workout"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-22",
+    "datum": "2026-01-19",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-22",
+    "datum": "2026-01-19",
     "zeit": "16:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "HIIT Training",
-    "datum": "2025-12-22",
+    "datum": "2026-01-19",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/hiit-training"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-23",
+    "datum": "2026-01-20",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-23",
+    "datum": "2026-01-20",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
-    "titel": "Stretch & Relax",
-    "datum": "2025-12-23",
+    "titel": "Yoga Flow",
+    "datum": "2026-01-21",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga-flow"
+  },
+  {
+    "titel": "Outdoor Training",
+    "datum": "2026-01-21",
+    "zeit": "16:30",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/outdoor-training"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-21",
     "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
     "titel": "Golden Girls Zirkel",
-    "datum": "2025-12-29",
+    "datum": "2026-01-22",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/golden-girls-zirkel-gallneukrichen"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-23",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-23",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Golden Girls Zirkel",
+    "datum": "2026-01-26",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/golden-girls-zirkel-gallneukrichen"
   },
   {
     "titel": "Yoga Flow",
-    "datum": "2025-12-29",
+    "datum": "2026-01-26",
     "zeit": "16:30",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/yoga-flow"
   },
   {
     "titel": "HIIT Training",
-    "datum": "2025-12-29",
+    "datum": "2026-01-26",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/hiit-training"
   },
   {
     "titel": "Happy 30",
-    "datum": "2025-12-30",
+    "datum": "2026-01-27",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
-    "titel": "Powerzirkel",
-    "datum": "2025-12-30",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
+    "titel": "Happy 30",
+    "datum": "2026-01-28",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
-    "titel": "Stretch & Relax",
-    "datum": "2025-12-30",
+    "titel": "Happy 30",
+    "datum": "2026-01-28",
+    "zeit": "16:30",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-29",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Rücken Fit",
+    "datum": "2026-01-29",
+    "zeit": "16:30",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/mobility-workout"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-29",
     "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-30",
+    "zeit": "08:30",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-30",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-01-30",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   }
 ]
