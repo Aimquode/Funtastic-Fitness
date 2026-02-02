@@ -1,119 +1,5 @@
 [
   {
-    "titel": "Easy Dance",
-    "datum": "2026-01-02",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/easy-dance"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-02",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-05",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-05",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2026-01-05",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-07",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2026-01-07",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/stretch-relax"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2026-01-07",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/stretch-relax"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-07",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Step Aerobic",
-    "datum": "2026-01-07",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
-  },
-  {
-    "titel": "BBP",
-    "datum": "2026-01-08",
-    "zeit": "08:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
-  },
-  {
-    "titel": "Happy 30 YOGA",
-    "datum": "2026-01-08",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-08",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Ganzkörpertraining",
-    "datum": "2026-01-08",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/ganzkorpertraining"
-  },
-  {
-    "titel": "Easy Dance",
-    "datum": "2026-01-09",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/easy-dance"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-09",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-12",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-01-12",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2026-01-12",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
-  },
-  {
     "titel": "Golden Girls",
     "datum": "2026-01-13",
     "zeit": "09:30",
@@ -136,12 +22,6 @@
     "datum": "2026-01-14",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2026-01-14",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/stretch-relax"
   },
   {
     "titel": "Stretch & Relax",
@@ -204,16 +84,16 @@
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
-    "titel": "Pilates",
-    "datum": "2026-01-19",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
-  },
-  {
     "titel": "Happy 30",
     "datum": "2026-01-19",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Pilates",
+    "datum": "2026-01-19",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
   {
     "titel": "Golden Girls",
@@ -238,12 +118,6 @@
     "datum": "2026-01-21",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2026-01-21",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/stretch-relax"
   },
   {
     "titel": "Stretch & Relax",
@@ -346,12 +220,6 @@
     "datum": "2026-01-28",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Stretch & Relax",
-    "datum": "2026-01-28",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/stretch-relax"
   },
   {
     "titel": "Stretch & Relax",
