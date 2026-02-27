@@ -30,6 +30,12 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
   },
   {
+    "titel": "Straffe Arme",
+    "datum": "2026-03-03",
+    "zeit": "08:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/straffe-arme"
+  },
+  {
     "titel": "Yoga",
     "datum": "2026-03-05",
     "zeit": "09:00",
@@ -48,6 +54,12 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
   },
   {
+    "titel": "Ganzkörpertraining",
+    "datum": "2026-03-10",
+    "zeit": "08:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/ganzkorpertraining-urfahr"
+  },
+  {
     "titel": "Yoga",
     "datum": "2026-03-12",
     "zeit": "09:00",
@@ -58,6 +70,12 @@
     "datum": "2026-03-16",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
+  },
+  {
+    "titel": "Stepper",
+    "datum": "2026-03-17",
+    "zeit": "08:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
   },
   {
     "titel": "Yoga",
@@ -78,6 +96,12 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
   },
   {
+    "titel": "Bauch Beine Po",
+    "datum": "2026-03-24",
+    "zeit": "08:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/bauch-beine-po-urfahr"
+  },
+  {
     "titel": "Yoga",
     "datum": "2026-03-26",
     "zeit": "09:00",
@@ -94,5 +118,11 @@
     "datum": "2026-03-30",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
+  },
+  {
+    "titel": "Stepper",
+    "datum": "2026-03-31",
+    "zeit": "08:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
   }
 ]
