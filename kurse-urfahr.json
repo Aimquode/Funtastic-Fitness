@@ -1,29 +1,5 @@
 [
   {
-    "titel": "Pilates",
-    "datum": "2026-02-27",
-    "zeit": "08:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-02-27",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-02-27",
-    "zeit": "12:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-02-27",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
     "titel": "Happy 30",
     "datum": "2026-03-02",
     "zeit": "09:00",
@@ -198,6 +174,12 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
+    "titel": "Mobilisierung/Stabilisierung",
+    "datum": "2026-03-11",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
+  },
+  {
     "titel": "Happy 30",
     "datum": "2026-03-11",
     "zeit": "10:00",
@@ -216,10 +198,10 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Mobilisierung/Stabilisierung",
+    "titel": "Yoga",
     "datum": "2026-03-11",
     "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
   },
   {
     "titel": "Yoga",
@@ -370,24 +352,6 @@
     "datum": "2026-03-19",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-03-20",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-03-20",
-    "zeit": "12:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-03-20",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
     "titel": "Happy 30",
