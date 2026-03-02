@@ -36,6 +36,12 @@
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
+    "titel": "Stretch & Relax",
+    "datum": "2026-03-03",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
+  },
+  {
     "titel": "Happy 30",
     "datum": "2026-03-05",
     "zeit": "18:00",
@@ -150,6 +156,12 @@
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
   },
   {
+    "titel": "Stretch & Relax",
+    "datum": "2026-03-17",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
+  },
+  {
     "titel": "Happy 30",
     "datum": "2026-03-19",
     "zeit": "18:00",
@@ -178,6 +190,12 @@
     "datum": "2026-03-24",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Stretch & Relax",
+    "datum": "2026-03-24",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
   },
   {
     "titel": "Happy 30",
@@ -262,5 +280,11 @@
     "datum": "2026-03-31",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Stretch & Relax",
+    "datum": "2026-03-31",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/stretch-relax"
   }
 ]
