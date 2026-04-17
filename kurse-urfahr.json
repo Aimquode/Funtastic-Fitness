@@ -1,83 +1,5 @@
 [
   {
-    "titel": "Stepper",
-    "datum": "2026-04-14",
-    "zeit": "08:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-14",
-    "zeit": "11:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-14",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-14",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Mobilisierung/Stabilisierung",
-    "datum": "2026-04-15",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-15",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-15",
-    "zeit": "16:15",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-15",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "HIIT",
-    "datum": "2026-04-15",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/hiit"
-  },
-  {
-    "titel": "Yoga",
-    "datum": "2026-04-16",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-16",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-16",
-    "zeit": "15:30",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-04-16",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
     "titel": "Pilates",
     "datum": "2026-04-17",
     "zeit": "08:00",
@@ -342,16 +264,16 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
   },
   {
+    "titel": "Happy 30",
+    "datum": "2026-05-04",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
     "titel": "Golden Girls",
     "datum": "2026-05-04",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-04",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
     "titel": "Happy 30",
@@ -474,6 +396,12 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
   },
   {
+    "titel": "Happy 30",
+    "datum": "2026-05-11",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
     "titel": "Golden Girls",
     "datum": "2026-05-11",
     "zeit": "10:00",
@@ -482,14 +410,14 @@
   {
     "titel": "Happy 30",
     "datum": "2026-05-11",
-    "zeit": "10:00",
+    "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Happy 30",
+    "titel": "Sixpack Attack",
     "datum": "2026-05-11",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/sixpack-attack"
   },
   {
     "titel": "Bauch Beine Po",
@@ -546,16 +474,16 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
   },
   {
-    "titel": "Bauch Beine Po",
-    "datum": "2026-05-15",
-    "zeit": "08:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/bauch-beine-po-urfahr"
-  },
-  {
     "titel": "Pilates",
     "datum": "2026-05-15",
     "zeit": "08:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
+  },
+  {
+    "titel": "Bauch Beine Po",
+    "datum": "2026-05-15",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/bauch-beine-po-urfahr"
   },
   {
     "titel": "Happy 30",
@@ -570,16 +498,16 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
   },
   {
+    "titel": "Happy 30",
+    "datum": "2026-05-18",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
+  },
+  {
     "titel": "Golden Girls",
     "datum": "2026-05-18",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/golden-girls-urfahr"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-18",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
     "titel": "Happy 30",
@@ -652,6 +580,12 @@
     "datum": "2026-05-21",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
+  },
+  {
+    "titel": "Straffe Arme",
+    "datum": "2026-05-21",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/straffe-arme"
   },
   {
     "titel": "Happy 30",
