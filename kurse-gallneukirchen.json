@@ -1,23 +1,5 @@
 [
   {
-    "titel": "Golden Girls Zirkel",
-    "datum": "2026-06-11",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/golden-girls-zirkel-gallneukrichen"
-  },
-  {
-    "titel": "Arena Challenge",
-    "datum": "2026-06-11",
-    "zeit": "16:30",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/arena-challenge-klon"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2026-06-11",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/pilates-gallneukirchen"
-  },
-  {
     "titel": "Happy 30",
     "datum": "2026-06-12",
     "zeit": "10:00",
@@ -46,6 +28,12 @@
     "datum": "2026-06-16",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Powerzirkel",
+    "datum": "2026-06-16",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
   },
   {
     "titel": "Stretch & Relax",
@@ -174,6 +162,12 @@
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/pilates-gallneukirchen"
   },
   {
+    "titel": "Powerzirkel",
+    "datum": "2026-06-26",
+    "zeit": "08:30",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
+  },
+  {
     "titel": "Happy 30",
     "datum": "2026-06-26",
     "zeit": "10:00",
@@ -202,6 +196,12 @@
     "datum": "2026-06-30",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/daily-30-gallneukirchen"
+  },
+  {
+    "titel": "Powerzirkel",
+    "datum": "2026-06-30",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessgallneukirchen/powerzirkel-gallneukirchen"
   },
   {
     "titel": "Stretch & Relax",
