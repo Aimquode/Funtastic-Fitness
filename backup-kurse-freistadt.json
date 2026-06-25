@@ -1,314 +1,440 @@
 [
   {
     "titel": "BBP",
-    "datum": "2026-04-30",
+    "datum": "2026-05-21",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-04-30",
+    "datum": "2026-05-21",
     "zeit": "16:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
     "titel": "Happy 30 YOGA",
-    "datum": "2026-04-30",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
-  },
-  {
-    "titel": "Krafttraining mit Isabella",
-    "datum": "2026-05-04",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
-  },
-  {
-    "titel": "Krafttraining mit Isabella",
-    "datum": "2026-05-04",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2026-05-04",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
-  },
-  {
-    "titel": "Golden Girls",
-    "datum": "2026-05-05",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/golden-girls"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-05",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2026-05-05",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-06",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-06",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Ganzkörpertraining",
-    "datum": "2026-05-06",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/ganzkorpertraining"
-  },
-  {
-    "titel": "BBP",
-    "datum": "2026-05-07",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-07",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30 YOGA",
-    "datum": "2026-05-07",
+    "datum": "2026-05-21",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
   },
   {
     "titel": "Tanzworkout",
-    "datum": "2026-05-08",
+    "datum": "2026-05-22",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/tanzworkout"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-05-08",
+    "datum": "2026-05-22",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Golden Girls",
+    "datum": "2026-05-26",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/golden-girls"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-05-26",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-05-27",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-05-27",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Ganzkörpertraining",
+    "datum": "2026-05-27",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/ganzkorpertraining"
+  },
+  {
+    "titel": "BBP",
+    "datum": "2026-05-28",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-05-28",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30 YOGA",
+    "datum": "2026-05-28",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
+  },
+  {
+    "titel": "Step Aerobic",
+    "datum": "2026-05-29",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-05-29",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
     "titel": "Krafttraining mit Isabella",
-    "datum": "2026-05-11",
+    "datum": "2026-06-01",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
+  },
+  {
+    "titel": "Krafttraining mit Isabella",
+    "datum": "2026-06-01",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
+  },
+  {
+    "titel": "Pilates",
+    "datum": "2026-06-01",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
+  },
+  {
+    "titel": "Golden Girls",
+    "datum": "2026-06-02",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/golden-girls"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-02",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-03",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-03",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Ganzkörpertraining",
+    "datum": "2026-06-03",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/ganzkorpertraining"
+  },
+  {
+    "titel": "Step Aerobic",
+    "datum": "2026-06-05",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-05",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Krafttraining mit Isabella",
+    "datum": "2026-06-08",
     "zeit": "09:30",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
   },
   {
     "titel": "Pilates",
-    "datum": "2026-05-11",
+    "datum": "2026-06-08",
     "zeit": "10:15",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
   {
     "titel": "Krafttraining mit Isabella",
-    "datum": "2026-05-11",
+    "datum": "2026-06-08",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
   },
   {
     "titel": "Step Aerobic",
-    "datum": "2026-05-11",
+    "datum": "2026-06-08",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
   },
   {
     "titel": "Golden Girls",
-    "datum": "2026-05-12",
+    "datum": "2026-06-09",
     "zeit": "09:30",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/golden-girls"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-05-12",
+    "datum": "2026-06-09",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-05-13",
+    "datum": "2026-06-10",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-05-13",
+    "datum": "2026-06-10",
     "zeit": "16:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
     "titel": "Ganzkörpertraining",
-    "datum": "2026-05-13",
+    "datum": "2026-06-10",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/ganzkorpertraining"
   },
   {
-    "titel": "Tanzworkout",
-    "datum": "2026-05-15",
+    "titel": "BBP",
+    "datum": "2026-06-11",
     "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/tanzworkout"
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-05-15",
+    "datum": "2026-06-11",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30 YOGA",
+    "datum": "2026-06-11",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
+  },
+  {
+    "titel": "Zumba mit Sonja",
+    "datum": "2026-06-12",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/zumba-mit-sonja"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-12",
     "zeit": "10:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
     "titel": "Krafttraining mit Isabella",
-    "datum": "2026-05-18",
+    "datum": "2026-06-15",
     "zeit": "09:30",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
   },
   {
     "titel": "Krafttraining mit Isabella",
-    "datum": "2026-05-18",
+    "datum": "2026-06-15",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
   },
   {
     "titel": "Pilates",
-    "datum": "2026-05-18",
+    "datum": "2026-06-15",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
   },
   {
     "titel": "Golden Girls",
-    "datum": "2026-05-19",
+    "datum": "2026-06-16",
     "zeit": "09:30",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/golden-girls"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-05-19",
+    "datum": "2026-06-16",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
-    "titel": "Powerzirkel",
-    "datum": "2026-05-19",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/powerzirkel-freistadt"
-  },
-  {
     "titel": "Happy 30",
-    "datum": "2026-05-20",
+    "datum": "2026-06-17",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
+    "titel": "Zumba mit Sonja",
+    "datum": "2026-06-17",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/zumba-mit-sonja"
+  },
+  {
     "titel": "Happy 30",
-    "datum": "2026-05-20",
+    "datum": "2026-06-17",
     "zeit": "16:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
     "titel": "Ganzkörpertraining",
-    "datum": "2026-05-20",
+    "datum": "2026-06-17",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/ganzkorpertraining"
   },
   {
     "titel": "BBP",
-    "datum": "2026-05-21",
+    "datum": "2026-06-18",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-05-21",
+    "datum": "2026-06-18",
     "zeit": "16:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   },
   {
     "titel": "Happy 30 YOGA",
-    "datum": "2026-05-21",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
-  },
-  {
-    "titel": "Tanzworkout",
-    "datum": "2026-05-22",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/tanzworkout"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-22",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Golden Girls",
-    "datum": "2026-05-26",
-    "zeit": "09:30",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/golden-girls"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-26",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-27",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-27",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Ganzkörpertraining",
-    "datum": "2026-05-27",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/ganzkorpertraining"
-  },
-  {
-    "titel": "BBP",
-    "datum": "2026-05-28",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-28",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
-  },
-  {
-    "titel": "Happy 30 YOGA",
-    "datum": "2026-05-28",
+    "datum": "2026-06-18",
     "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
   },
   {
     "titel": "Step Aerobic",
-    "datum": "2026-05-29",
+    "datum": "2026-06-19",
     "zeit": "09:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
   },
   {
     "titel": "Happy 30",
-    "datum": "2026-05-29",
+    "datum": "2026-06-19",
     "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Krafttraining mit Isabella",
+    "datum": "2026-06-22",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
+  },
+  {
+    "titel": "Pilates",
+    "datum": "2026-06-22",
+    "zeit": "10:15",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
+  },
+  {
+    "titel": "Krafttraining mit Isabella",
+    "datum": "2026-06-22",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
+  },
+  {
+    "titel": "Step Aerobic mit Kerstin",
+    "datum": "2026-06-22",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic-mit-tini"
+  },
+  {
+    "titel": "Golden Girls",
+    "datum": "2026-06-23",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/golden-girls"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-23",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-24",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Zumba mit Sonja",
+    "datum": "2026-06-24",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/zumba-mit-sonja"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-24",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Ganzkörpertraining",
+    "datum": "2026-06-24",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/ganzkorpertraining"
+  },
+  {
+    "titel": "BBP",
+    "datum": "2026-06-25",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/bauch-beine-po"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-25",
+    "zeit": "16:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Happy 30 YOGA",
+    "datum": "2026-06-25",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/happy-30-yoga"
+  },
+  {
+    "titel": "Step Aerobic",
+    "datum": "2026-06-26",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/step-aerobic"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-26",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
+  },
+  {
+    "titel": "Krafttraining mit Isabella",
+    "datum": "2026-06-29",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
+  },
+  {
+    "titel": "Krafttraining mit Isabella",
+    "datum": "2026-06-29",
+    "zeit": "17:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/krafttraining-mit-isabella"
+  },
+  {
+    "titel": "Pilates",
+    "datum": "2026-06-29",
+    "zeit": "18:00",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/pilates-freistadt"
+  },
+  {
+    "titel": "Golden Girls",
+    "datum": "2026-06-30",
+    "zeit": "09:30",
+    "calendly": "https://calendly.com/funtasticfitnessfreistadt/golden-girls"
+  },
+  {
+    "titel": "Happy 30",
+    "datum": "2026-06-30",
+    "zeit": "17:00",
     "calendly": "https://calendly.com/funtasticfitnessfreistadt/daily-30-freistadt"
   }
 ]
