@@ -1,53 +1,5 @@
 [
   {
-    "titel": "Yoga",
-    "datum": "2026-05-21",
-    "zeit": "09:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
-  },
-  {
-    "titel": "Straffe Arme",
-    "datum": "2026-05-21",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/straffe-arme"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-21",
-    "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2026-05-21",
-    "zeit": "19:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
-  },
-  {
-    "titel": "Pilates",
-    "datum": "2026-05-22",
-    "zeit": "08:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/pilates"
-  },
-  {
-    "titel": "Stepper",
-    "datum": "2026-05-22",
-    "zeit": "10:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/stepper"
-  },
-  {
-    "titel": "Happy 30",
-    "datum": "2026-05-22",
-    "zeit": "16:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
-  },
-  {
-    "titel": "Powerzirkel",
-    "datum": "2026-05-22",
-    "zeit": "18:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
-  },
-  {
     "titel": "Ganzkörpertraining",
     "datum": "2026-05-26",
     "zeit": "08:00",
@@ -216,10 +168,10 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Mobilisierung/Stabilisierung",
+    "titel": "Rücken Fit",
     "datum": "2026-06-03",
     "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/rueckenfit"
   },
   {
     "titel": "Powerzirkel",
@@ -312,16 +264,22 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Mobilisierung/Stabilisierung",
+    "titel": "Bauch Beine Po",
     "datum": "2026-06-10",
     "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/bauch-beine-po-urfahr"
   },
   {
     "titel": "Powerzirkel",
     "datum": "2026-06-10",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
+  },
+  {
+    "titel": "Yoga",
+    "datum": "2026-06-11",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
   },
   {
     "titel": "Stepper",
@@ -426,16 +384,28 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Mobilisierung/Stabilisierung",
+    "titel": "Rücken Fit",
     "datum": "2026-06-17",
     "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/rueckenfit"
   },
   {
     "titel": "Powerzirkel",
     "datum": "2026-06-17",
     "zeit": "18:00",
     "calendly": "https://calendly.com/funtasticfitnessurfahr/powerzirkel-urfahr"
+  },
+  {
+    "titel": "Yoga",
+    "datum": "2026-06-18",
+    "zeit": "09:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/yoga"
+  },
+  {
+    "titel": "Ganzkörpertraining",
+    "datum": "2026-06-18",
+    "zeit": "10:00",
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/ganzkorpertraining-urfahr"
   },
   {
     "titel": "Happy 30",
@@ -528,10 +498,10 @@
     "calendly": "https://calendly.com/funtasticfitnessurfahr/daily-30-urfahr"
   },
   {
-    "titel": "Mobilisierung/Stabilisierung",
+    "titel": "Bauch Beine Po",
     "datum": "2026-06-24",
     "zeit": "17:00",
-    "calendly": "https://calendly.com/funtasticfitnessurfahr/mobilisierung-stabilisierung"
+    "calendly": "https://calendly.com/funtasticfitnessurfahr/bauch-beine-po-urfahr"
   },
   {
     "titel": "Powerzirkel",
